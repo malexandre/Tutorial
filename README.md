@@ -1,0 +1,1 @@
+Personal project to learn Android. Basic stuffs to prepare for a Gloomhaven Helper app.
