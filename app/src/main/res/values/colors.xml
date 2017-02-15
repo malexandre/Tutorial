@@ -4,10 +4,11 @@
     <!--<color name="colorPrimaryDark">#303F9F</color>-->
     <!--<color name="colorAccent">#FF4081</color>-->
 
-    <color name="colorPrimary">#826C58</color>
-    <color name="colorPrimaryDark">#745C45</color>
+    <color name="colorPrimary">#8B6851</color>
+    <color name="colorPrimaryDark">#543829</color>
     <color name="textColorPrimary">#333333</color>
-    <color name="windowBackground">#DFD5CF</color>
+    <color name="windowBackground">#CFBFB5</color>
     <!--<color name="navigationBarColor">#000000</color>-->
-    <color name="colorAccent">#95B180</color>
+    <!--<color name="colorAccent">#95B180</color>-->
+    <color name="colorAccent">#BB7575</color>
 </resources>

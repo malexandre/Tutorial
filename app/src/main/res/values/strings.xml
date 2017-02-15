@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">GH Helper</string>
     <string name="action_settings">Settings</string>
+    <string name="story">Story</string>
+    <string name="parties">Parties</string>
+    <string name="events">Events</string>
+    <string name="town">Town</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse placerat justo rutrum ipsum ultrices porta. Sed egestas, magna ut sodales interdum, mauris ante iaculis ipsum, in faucibus ligula erat a lacus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi quis ipsum quis libero feugiat ullamcorper. Maecenas porttitor efficitur massa ac egestas. Fusce cursus velit et porttitor elementum. Praesent convallis massa sit amet facilisis commodo. Cras lacus libero, consequat nec magna non, iaculis consequat velit.</string>
 </resources>
